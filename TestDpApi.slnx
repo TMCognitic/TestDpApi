@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DpApiEncryptor/DpApiEncryptor.csproj" />
+  <Project Path="TestDpApi/TestDpApi.csproj" />
+</Solution>
